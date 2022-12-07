@@ -19,3 +19,4 @@ Advent of code was designed by **Eric Wastl**. You can find him on [Twitter](htt
 | 4 | Camp Cleanup | [\[▶️\]<br>Open](/puzzles/day4_part1.py) | [\[▶️\]<br>Open](/puzzles/day4_part2.py) |
 | 5 | Supply Stacks | [\[▶️\]<br>Open](/puzzles/day5_part1.py) | [\[▶️\]<br>Open](/puzzles/day5_part2.py) |
 | 6 | Tuning Trouble | [\[▶️\]<br>Open](/puzzles/day6_part1.py) | [\[▶️\]<br>Open](/puzzles/day6_part2.py) |
+| 7 | No Space Left On Device | [\[▶️\]<br>Open](/puzzles/day7_part1.py) | [\[▶️\]<br>Open](/puzzles/day7_part2.py) |
