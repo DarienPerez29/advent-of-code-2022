@@ -20,3 +20,4 @@ Advent of code was designed by **Eric Wastl**. You can find him on [Twitter](htt
 | 5 | Supply Stacks | [\[▶️\]<br>Open](/puzzles/day5_part1.py) | [\[▶️\]<br>Open](/puzzles/day5_part2.py) |
 | 6 | Tuning Trouble | [\[▶️\]<br>Open](/puzzles/day6_part1.py) | [\[▶️\]<br>Open](/puzzles/day6_part2.py) |
 | 7 | No Space Left On Device | [\[▶️\]<br>Open](/puzzles/day7_part1.py) | [\[▶️\]<br>Open](/puzzles/day7_part2.py) |
+| 7 | Treetop Tree House | [\[▶️\]<br>Open](/puzzles/day8_part1.py) | [\[▶️\]<br>Open](/puzzles/day8_part2.py) |
